@@ -18,10 +18,8 @@ git checkout: Code, Design and Space 🚀
 
 Find Me Here 👇🏻
 
-
-
 <a>
-![linkedin](https://user-images.githubusercontent.com/65060103/126262043-b2b6e219-4d71-4b6b-a4ff-803092a981b5.png)
+  ![linkedin](https://user-images.githubusercontent.com/65060103/126262043-b2b6e219-4d71-4b6b-a4ff-803092a981b5.png)
 </a>
 <a href="https://www.instagram.com/"> ![instagram](https://user-images.githubusercontent.com/65060103/126262035-d4dff4eb-8e0d-46f1-b69b-5fd42bde2ff6.png)
 </a>
