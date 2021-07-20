@@ -3,9 +3,9 @@
 
 ### Hey There! They told that I can find the source code of 🌏 here, Still didn't find it let me know if you do 🙏🏻.
 
-### Know Me 🙋🏻‍♂️
+#### Know Me 🙋🏻‍♂️
 You can call me Atharva, I am 20 and a Third Year EXTC engineer studying in SFIT, Mumbai University 🎓,
-Web Dev Enthusiast, familiar with MERN stack and Front-end frameworks and JS libraries - React, AngularJS, Vue.js and Next.js⚡
+Web Dev Enthusiast, familiar with MERN stack, Front-end frameworks and JS libraries - React, AngularJS, Vue.js and Next.js⚡
 Cultural committee Head🤹🏻‍♂️ also a travel and trek enthusiast !
 
 
