@@ -24,9 +24,64 @@ git checkout: Code, Design and Space 🚀
 
 
 
+# New
 
 
-<!--
+
+<h1 align="center">Hi 👋, I'm Atharva Utekar</h1>
+<h4 align="center">A Passionate and Enthusiastic Individual seeking to explore new areas and work in a dynamic stable organization <br> where I can improve my skills and knowledge in the field of Computer Engineering <br> allowing myself to pursue a rewarding career ahead</h4>
+
+
+
+
+
+- 🌱 I’m currently learning **React JS, Three.js (3D Web Development), Automation Testing**
+
+- 👯 I’m looking to collaborate on 
+
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/AtharvaUtekar)**
+
+- 📫 How to reach me **Atharva.v.utekar@gmail.com**
+
+- 📄 Know about my experiences **[Resume]()**
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AtharvaUtekar&theme=darkhub" alt="AtharvaUtekar" /></a> 
+</p>
+
+
+<h3 align="left">About Me</h3>
+
+``` javascript
+document.write("Hi 👋, I'm Atharva Utekar");
+Developer dev = new Developer("Atharva Utekar");
+
+const Siddhesh = {
+  pronouns: ['He', 'Him'],
+  status: 'Final year EXTC engineer', 'MERN stack developer',
+  technologies: {
+    frontEnd: [ 'HTML', 'CSS', 'ReactJS', 'Javascript', 'BootStrap', 'Tailwind CSS', 'Material UI' ],
+    backEnd: [ 'MySQL', 'NodeJS', 'express', 'Mongodb' ],
+    other: [ 'Python',]
+  },
+  askMeAbout: [ 'frontEnd-Techs', 'Coding', 'Computer Engineering' ],
+  learning: [ 'BlockChain technologies', 'Three.js', 'Automation Testing' ]    
+};
+
+if (succeed == false){
+  tryAgain();
+}
+else{
+  party();
+}
+```
+
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
