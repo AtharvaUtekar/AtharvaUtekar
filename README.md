@@ -29,7 +29,6 @@ git checkout: Code, Design and Space 🚀
 
 
 <h1 align="center">Hi 👋, I'm Atharva Utekar</h1>
-<h4 align="center">A Passionate and Enthusiastic Individual seeking to explore new areas and work in a dynamic stable organization <br> where I can improve my skills and knowledge in the field of Computer Engineering <br> allowing myself to pursue a rewarding career ahead</h4>
 
 
 
