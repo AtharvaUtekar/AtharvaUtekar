@@ -48,7 +48,7 @@ git checkout: Code, Design and Space 🚀
 document.write("Hi 👋, I'm Atharva Utekar");
 Developer dev = new Developer("Atharva Utekar");
 
-const Siddhesh = {
+const Atharva = {
   pronouns: ['He', 'Him'],
   status: 'Final year EXTC engineer', 'MERN stack developer',
   technologies: {
