@@ -1,5 +1,5 @@
 # Atharva Utekar
-## Student | Frontend Developer | MERN stack developer 💻 | Volunteer 🎗️ | Outdoor enthusiast 🏕️ | SFIT'23
+## Full Stack Developer | MERN stack developer 💻 | Volunteer 🎗️ | Outdoor enthusiast 🏕️ | SFIT'23
 
 ### Hey There! They told that I can find the source code of 🌏 here, Still didn't find it let me know if you do 🙏🏻.
 
