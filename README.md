@@ -1,7 +1,6 @@
 # Atharva Utekar
 ## Full Stack Developer | MERN stack developer 💻 | Volunteer 🎗️ | Outdoor enthusiast 🏕️ | SFIT'23
 
-### Hey There! They told that I can find the source code of 🌏 here, Still didn't find it let me know if you do 🙏🏻.
 
 #### Know Me 🙋🏻‍♂️
 You can call me Atharva, I am 20 and a Final Year EXTC engineer studying in SFIT, Mumbai University 🎓,
