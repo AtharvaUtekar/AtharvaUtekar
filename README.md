@@ -1,34 +1,14 @@
-# Atharva Utekar
+
+<h1 align="center">Hi 👋, I'm Atharva Utekar</h1>
+
 ## Full Stack Developer | MERN stack developer 💻 | Volunteer 🎗️ | Outdoor enthusiast 🏕️ | SFIT'23
+
 
 
 #### Know Me 🙋🏻‍♂️
 You can call me Atharva, I am 20 and a Final Year EXTC engineer studying in SFIT, Mumbai University 🎓,
 Web Dev Enthusiast, familiar with MERN stack, Front-end frameworks and JS libraries - React, AngularJS, Vue.js and Next.js⚡
 Cultural committee Head🤹🏻‍♂️ also a travel and trek enthusiast !
-
-
-git pull: The Art of Writing Clean Code 👌🏻
-git commit: Self hosted products in making 🤩
-git checkout: Code, Design and Space 🚀
-
-
-
-
-
-
-
-
-
-# New
-
-
-
-<h1 align="center">Hi 👋, I'm Atharva Utekar</h1>
-
-
-
-
 
 - 🌱 I’m currently learning **React JS, Three.js (3D Web Development), Automation Testing**
 
@@ -47,7 +27,7 @@ git checkout: Code, Design and Space 🚀
 document.write("Hi 👋, I'm Atharva Utekar");
 Developer dev = new Developer("Atharva Utekar");
 
-const Atharva = {
+const AtharvaUtekar = {
   pronouns: ['He', 'Him'],
   status: 'Final year EXTC engineer', 'MERN stack developer',
   technologies: {
