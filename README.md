@@ -29,29 +29,35 @@ Developer dev = new Developer("Atharva Utekar");
 
 const AtharvaUtekar = {
   pronouns: ['He', 'Him'],
-  status: 'Final year EXTC engineer', 'MERN stack developer',
+  status: 'Full Stack engineer', 'React-Django stack developer', 'EXTC engineer', 'AI ML engineer'
   technologies: {
-    frontEnd: [ 'HTML', 'CSS', 'ReactJS', 'Javascript', 'BootStrap', 'Tailwind CSS', 'Material UI' ],
-    backEnd: [ 'MySQL', 'NodeJS', 'express', 'Mongodb' ],
-    other: [ 'Python',]
+    frontEnd: [ 'React JS', 'Vanilla JS', 'Next JS', 'Javascript', 'BootStrap', 'Tailwind CSS', 'Material UI' ],
+    backEnd: [ 'Django', 'Django Rest Framework', 'Laravel', 'Node JS', 'Express JS'],
+    databases: [ 'Mongo DB', 'MySQL', 'SQL', 'Postgres'],
+    other: [ 'AWS cloud', 'Python', 'C', 'C++', 'Java']
   },
   askMeAbout: [ 'frontEnd-Techs', 'Coding', 'Computer Engineering' ],
-  learning: [ 'BlockChain technologies', 'Three.js', 'Automation Testing' ]    
+  learning: [ 'Aws Cloud Infrastucture', 'BlockChain technologies', 'Three.js', 'Automation Testing' ]    
 };
 
 ```
 
-## Get in touch! 👇🏻
-<br/>
-<p align="center" >  
-  <a href="mailto:atharva.v.utekar@gmail.com"> 
-    <img src="https://user-images.githubusercontent.com/65060103/126262505-014b0278-1ace-4bc4-92dc-438ce47e00e3.png"/>
-  </a>
-    <a href="https://www.linkedin.com/in/atharva-utekar/"> 
-    <img src="https://user-images.githubusercontent.com/65060103/126262769-03da501e-12a1-4ece-8745-497c7d2e203e.png"/>
-  </a>
-  <a href="https://www.instagram.com/_aaatharva"> 
-    <img src="https://user-images.githubusercontent.com/65060103/126262775-fe918a4f-007a-4df2-83e9-a1a0ea4fc7a7.png"/>
-  </a>
+
+<p align="center">
+    <a href="https://github.com/AtharvaUtekar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaUtekar&theme=tokyonight&hide_border=true" width="500" alt="Atharva Utekar"/></a>
+<a href="https://github.com/AtharvaUtekar"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaUtekar&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="240" alt="Atharva Utekar"/></a>
 </p>
+
+
+
+
+
+### New Get in touch
+## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
+  
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:atharva.v.utekar@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/atharva-utekar/)
+
+
+
 
