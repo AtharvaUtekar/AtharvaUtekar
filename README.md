@@ -39,32 +39,7 @@ const AtharvaUtekar = {
   learning: [ 'BlockChain technologies', 'Three.js', 'Automation Testing' ]    
 };
 
-if (succeed == false){
-  tryAgain();
-}
-else{
-  party();
-}
 ```
-
-### 📈 Github Stats
-<br>
-
-<p align="center">  
-  <a href="https://github.com/AtharvaUtekar/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=AtharvaUtekar&show_icons=true&theme=dracula"/> </a>
-</p>
-
-
----
-
-### 🔡 My Top Languages
-<br>
-<p align="center" >  
-  <a href="https://github.com/AtharvaUtekar/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaUtekar&show_icons=true&theme=dracula"/>
-  </a>
-  </p>
 
 ## Get in touch! 👇🏻
 <br/>
