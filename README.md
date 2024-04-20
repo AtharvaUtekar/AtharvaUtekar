@@ -45,7 +45,7 @@ const AtharvaUtekar = {
 
 <p align="center">
     <a href="https://github.com/AtharvaUtekar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaUtekar&theme=tokyonight&hide_border=true" width="500" alt="Atharva Utekar"/></a>
-<a href="https://github.com/AtharvaUtekar"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaUtekar&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="240" alt="Atharva Utekar"/></a>
+<a href="https://github.com/AtharvaUtekar"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaUtekar&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight" width="240" alt="Atharva Utekar"/></a>
 </p>
 
 
